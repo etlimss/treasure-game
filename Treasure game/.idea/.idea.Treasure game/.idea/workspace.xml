@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03a28530-6800-461f-b194-69c655bd2f61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Input/Player Input.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Input/Player Input.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Input/Player Input.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Input/Player Input.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GirlMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GirlMovement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Controllers/GirlAnimCntrl.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Controllers/GirlAnimCntrl.controller" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +81,7 @@
       <workItem from="1648815365393" duration="46000" />
       <workItem from="1648819222800" duration="1395000" />
       <workItem from="1649140988347" duration="5259000" />
+      <workItem from="1650013529221" duration="905000" />
     </task>
     <servers />
   </component>
