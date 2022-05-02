@@ -4,6 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ImportedAssets/_SimpleNaturePack/Scenes/MenuFront.unity
+    guid: 0fd5547d6cf48f849bc7ff4b6087849c
+  - enabled: 1
+    path: Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity
+    guid: 7ce3a12d3435b7e4db439cb4cd427871
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: f5421be8ba7ce054cbe62a16c185cf52, type: 2}
