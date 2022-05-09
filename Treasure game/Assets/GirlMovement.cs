@@ -20,8 +20,10 @@ public class GirlMovement : MonoBehaviour
      bool isRunPressed;
      float rotationFactorPerFrame = 15.0f;
      float runMultiplier = 3.0f;
-     private bool isJumping;
-     private bool isGrounded;
+     
+
+    
+     
      
      
 
@@ -114,6 +116,7 @@ public class GirlMovement : MonoBehaviour
         {
             characterController.Move(currentMovement * Time.deltaTime);
         }
+
     }
 
      void OnEnable()
