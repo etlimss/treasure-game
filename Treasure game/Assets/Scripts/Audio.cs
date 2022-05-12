@@ -8,6 +8,7 @@ using UnityEngine;
 public class Audio : MonoBehaviour
 {
     private static Audio BackgroundMusic;
+    
     // Start is called before the first frame update
     private void Awake()
     {
