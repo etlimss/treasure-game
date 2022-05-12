@@ -8,6 +8,7 @@ public class AudioManager : MonoBehaviour
 {
    [SerializeField] Image soundOnIcon;
    [SerializeField]  Image soundOffIcon;
+   
    private bool muted = false;
 
    private void Start()
@@ -52,7 +53,8 @@ public class AudioManager : MonoBehaviour
          soundOffIcon.enabled = true;
       }
    }
-
+   
+   
 
 
    private void Load()

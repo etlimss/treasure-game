@@ -20,20 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03a28530-6800-461f-b194-69c655bd2f61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GirlMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GirlMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_HDRP_2018.4.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_LWRP_2018.4.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_URP_2019.3.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/MenuFront.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/MenuFront.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Input/Player Input.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Input/Player Input.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Input/Player Input.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Input/Player Input.inputactions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Controllers/GirlAnimCntrl.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Controllers/GirlAnimCntrl.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Humanoid/Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Humanoid/Jump.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Humanoid/Land.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Newbie &amp; Friends/Animations/Humanoid/Land.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_HDRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_LWRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_URP_2019.3_v1.22.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Audio.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Audio.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerInventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerInventory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -56,6 +54,12 @@
         <option value="$PROJECT_DIR$/Assets/Audio.cs" />
         <option value="$PROJECT_DIR$/Assets/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/GirlMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sound.cs" />
       </list>
     </option>
   </component>
@@ -107,6 +111,8 @@
       <workItem from="1651499332538" duration="3052000" />
       <workItem from="1651517810898" duration="5569000" />
       <workItem from="1651824181428" duration="3173000" />
+      <workItem from="1652187395117" duration="8393000" />
+      <workItem from="1652268836894" duration="742000" />
     </task>
     <servers />
   </component>
