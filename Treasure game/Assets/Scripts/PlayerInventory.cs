@@ -15,5 +15,6 @@ public class PlayerInventory : MonoBehaviour
         CollectingSound.Play();
         NumberOfFlowers++;
         OnFlowerCollected.Invoke(this);
+        
     }
 }
