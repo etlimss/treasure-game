@@ -20,20 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03a28530-6800-461f-b194-69c655bd2f61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_HDRP_2018.4.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_LWRP_2018.4.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_URP_2019.3.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/MenuFront.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/MenuFront.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_HDRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_LWRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_URP_2019.3_v1.22.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Audio.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Audio.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerInventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerInventory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +53,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/SoundManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Sound.cs" />
+        <option value="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" />
       </list>
     </option>
   </component>
