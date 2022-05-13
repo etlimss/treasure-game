@@ -19,7 +19,7 @@ public class GirlMovement : MonoBehaviour
      bool isMovementPressed;
      bool isRunPressed;
      float rotationFactorPerFrame = 15.0f;
-     float runMultiplier = 3.0f;
+     float runMultiplier = 5.0f;
      
 
     
