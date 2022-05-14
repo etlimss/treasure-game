@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03a28530-6800-461f-b194-69c655bd2f61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Treasure game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_HDRP_2018.4.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_LWRP_2018.4.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_URP_2019.3.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_HDRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_LWRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_URP_2019.3_v1.22.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameOverScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -49,6 +60,7 @@
         <option value="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Winning.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameOverScript.cs" />
       </list>
     </option>
   </component>

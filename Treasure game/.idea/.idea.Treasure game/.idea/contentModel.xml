@@ -217,6 +217,7 @@
           <e p="EnemyAI.cs" t="Include" />
           <e p="EnemyFollow.cs" t="Include" />
           <e p="Flower.cs" t="Include" />
+          <e p="GameOverScript.cs" t="Include" />
           <e p="GirlMovement.cs" t="Include" />
           <e p="InventoryUI.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
