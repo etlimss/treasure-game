@@ -20,12 +20,6 @@ public class GirlMovement : MonoBehaviour
      bool isRunPressed;
      float rotationFactorPerFrame = 15.0f;
      float runMultiplier = 5.0f;
-     
-
-    
-     
-     
-     
 
       void Awake()
      {
@@ -100,7 +94,7 @@ public class GirlMovement : MonoBehaviour
      // Start is called before the first frame update
     void Start()
     {
-        
+     
     }
 
     // Update is called once per frame
@@ -128,4 +122,5 @@ public class GirlMovement : MonoBehaviour
      {
          girlInput.GirlControls.Disable();
      }
+
 }
