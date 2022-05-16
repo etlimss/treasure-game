@@ -18,14 +18,15 @@ public class GameOverScript : MonoBehaviour
     // changing after health bar implemented.
     private void OnTriggerEnter(Collider other)
     {
-        if ((other.tag == "Player") && (PlayerInventory.NumberOfFlowers < 10))
+        if ((other.tag == "Player") && (PlayerInventory.NumberOfFlowers == 0))
         {
             GameOverPanel.SetActive(true);
             Time.timeScale = 0f;
            // MainMenu mainMenu = GameObject.Find("MainMenu").GetComponent<"MainMenu">();
         }
+       
         else
-        {
+        { 
             TestingPanel.SetActive(true);
             Invoke("DisablePanel", 3.0f);
         }

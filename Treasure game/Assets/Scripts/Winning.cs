@@ -10,13 +10,14 @@ public class Winning : MonoBehaviour
     public GameObject TestingPanel;
     
     public PlayerInventory PlayerInventory;
-
+    
     private void OnTriggerEnter(Collider other)
     {
         if ((other.tag == "Player") && (PlayerInventory.NumberOfFlowers == 10))
         {
             WinningPanel.SetActive(true);
             Time.timeScale = 0f;
+            DisablePanel();
         }
         else
         {
