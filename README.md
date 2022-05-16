@@ -11,6 +11,10 @@ WithoutUI - UI folder erased
 * For accesing Front page ../ImportedAssets/_SimpleNaturePack/Scenes/MenuFront
 
 ## Youtube link
+https://youtu.be/AS34_FnBkhE
+
+## WebGL
+https://play.unity.com/mg/other/build-v2
 
 ### Resources
 * https://www.youtube.com/watch?v=kWhOMJMihC0
