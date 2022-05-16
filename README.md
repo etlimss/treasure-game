@@ -23,4 +23,10 @@ WithoutUI - UI folder erased
 * https://www.youtube.com/watch?v=O3rFPRYadIw&t=45s
 * https://stackoverflow.com/questions/59538945/how-to-collect-coins-in-unity-3d-which-appears-randomly-in-the-scene-destroy-th
 * https://www.youtube.com/watch?v=aoZqeG7rqV0
-* 
+* https://www.youtube.com/watch?v=vApG8aYD5aI
+* https://www.youtube.com/watch?v=-thhMXmTM7Q
+* https://www.youtube.com/watch?v=YnIiMCnAf9E
+* https://www.youtube.com/watch?v=S0MXZ6AXzTE
+* https://www.youtube.com/watch?v=m0fjrQkaES4
+* https://www.youtube.com/watch?v=76WOa6IU_s8
+* https://docs.unity.com/
