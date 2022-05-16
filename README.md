@@ -16,6 +16,23 @@ https://youtu.be/AS34_FnBkhE
 ## WebGL
 https://play.unity.com/mg/other/build-v2
 
+### Used assets
+* SimpleNaturePack
+* Art By Kandles
+* BOXOPHOBIC
+* Forest Pack
+* FREE CASUAL PACK SFX
+* Hovl Studio
+* DinV_Studio
+* CasualGameBGM05
+* LowPolyDungeonsLite
+* MaximeBrunoni
+* NaturePack
+* Newbie & Friends
+* RPG Pack
+* Simple Foods
+* Unvik_3D
+
 ### Resources
 * https://www.youtube.com/watch?v=kWhOMJMihC0
 * https://www.youtube.com/watch?v=pTz3LMQpvfA&t=21s
