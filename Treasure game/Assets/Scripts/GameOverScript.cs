@@ -25,10 +25,10 @@ public class GameOverScript : MonoBehaviour
            // MainMenu mainMenu = GameObject.Find("MainMenu").GetComponent<"MainMenu">();
         }
        
-        else
+        else 
         { 
-            TestingPanel.SetActive(true);
-            Invoke("DisablePanel", 3.0f);
+            // TestingPanel.SetActive(true);
+            // Invoke("DisablePanel", 3.0f);
         }
     }
     public void OnReloadButton()
