@@ -55,7 +55,10 @@ public class AudioManager : MonoBehaviour
          soundOffIcon.enabled = true;
       }
    }
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
    private void Load()
    {
       muted = PlayerPrefs.GetInt("muted") == 1;
