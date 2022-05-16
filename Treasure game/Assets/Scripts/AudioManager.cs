@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class AudioManager : MonoBehaviour
 {
    [SerializeField] Image soundOnIcon;
-   [SerializeField]  Image soundOffIcon;
+   [SerializeField] Image soundOffIcon;
    
    private bool muted = false;
 
@@ -25,6 +25,7 @@ public class AudioManager : MonoBehaviour
       UpdateButtonIcon();
       AudioListener.pause = muted;
    }
+
    public void ButtonPressed()
    {
       if (muted == false)
@@ -40,6 +41,7 @@ public class AudioManager : MonoBehaviour
       Save();
       UpdateButtonIcon();
    }
+
    private void UpdateButtonIcon()
    {
       if (muted == false)
@@ -53,9 +55,6 @@ public class AudioManager : MonoBehaviour
          soundOffIcon.enabled = true;
       }
    }
-   
-   
-
 
    private void Load()
    {
