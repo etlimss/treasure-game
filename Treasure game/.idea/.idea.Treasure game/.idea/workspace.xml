@@ -25,11 +25,13 @@
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_HDRP_2018.4.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_LWRP_2018.4.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/LowPolyDungeonsLite/LowPolyDungeonsLite_URP_2019.3.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Newbie &amp; Friends/Materials/Girl_MAT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/Newbie &amp; Friends/Materials/Girl_MAT.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_HDRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_LWRP_2018.4_v1.22.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/SimpleNaturePack_URP_2019.3_v1.22.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +56,13 @@
         <option value="$PROJECT_DIR$/Assets/GirlMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInventory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Audio.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/SoundManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Sound.cs" />
         <option value="$PROJECT_DIR$/Assets/ImportedAssets/_SimpleNaturePack/Scenes/DefaultScene.unity" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Winning.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameOverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GirlMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
       </list>
     </option>
   </component>
@@ -114,6 +116,7 @@
       <workItem from="1651824181428" duration="3173000" />
       <workItem from="1652187395117" duration="8393000" />
       <workItem from="1652268836894" duration="742000" />
+      <workItem from="1652630020649" duration="12262000" />
     </task>
     <servers />
   </component>
